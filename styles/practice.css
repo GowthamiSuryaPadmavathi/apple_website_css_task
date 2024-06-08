@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+    border:1px solid #fff;
+    border-radius: 50px;
+}
+.profile-section {
+    padding-top: 25px;
+   
+    margin-left: 100px;
+    display:flex;
+ }
+ .profile-section a{
+    padding-left: 150px;
+    margin-top: 25px;
+    color:#fff;
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-decoration: none;
+ }
+
+.profile-section button{
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    margin-left: 100px;
+    border-radius:10px;
+    font-size: 15px;
+}
+
+.col-md{
+    padding-top: 65px;
+    margin-left: 100px;
+    border-radius: 1000px;
+    color: #fff;
+    font-size: 38px;
+    font-family: "Raleway", sans-serif;
+    line-height:1.2 ;
+    font-weight: 500;
+    /* text-align: justify; */
+   
+    
+    /* justify-content: space-between; */
+}
+.col-md .explore{
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 45px;
+    padding-left: 45px;
+    border-radius:10px;
+    background-color:azure;
+    font-size:20px;
+    display:flex;
+}
+
+
+.image{
+   
+   background-position: 70px;
+   max-width: 100%;
+  
+}
+.image1{
+    position: absolute;
+    top: 490px;
+    left: 689px;
+    border:30px solid blue;
+    border-radius: 900px;
+    /* padding-right: 80px; */
+}
+.explore-path {
+    padding-left: 55px;
+    padding-right:55px;
+    padding-top: 16px;
+    padding-bottom:26px;
+    margin-left:5px;
+    border-radius:10px;
+    background-color: #b8ad3c;
+}
+.exploring-row{
+    display:flex;
+    position: relative;
+}

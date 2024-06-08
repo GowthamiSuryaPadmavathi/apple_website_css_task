@@ -1,0 +1,10 @@
+.rcb-stats-table {
+    background-color:rgb(146, 45, 241);
+    font-weight: bold;
+    
+}
+.rcb-stats-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+}
